@@ -59,7 +59,6 @@ public class MainActivity extends AppCompatActivity {
         BarEntryLabels.add("March");
         BarEntryLabels.add("April");
         BarEntryLabels.add("May");
-        BarEntryLabels.add("June");
-
+        BarEntryLabels.add("June");//test
     }
 }
