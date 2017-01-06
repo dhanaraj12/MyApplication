@@ -48,7 +48,7 @@ public class MainActivity extends AppCompatActivity {
         BARENTRY.add(new BarEntry(6f, 2));
         BARENTRY.add(new BarEntry(8f, 3));
         BARENTRY.add(new BarEntry(7f, 4));
-        BARENTRY.add(new BarEntry(3f, 5));
+      
 
     }
 
